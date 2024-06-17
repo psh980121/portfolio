@@ -1,6 +1,33 @@
-Thanks for downloading this template!
+## 1. 프로젝트 소개
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+<div align="center">
+Adofet은 1인 가구가 늘어 남에 따라 그에 따른 반려동물도 늘어나는 반면
+그만큼 유기동물의 숫자도 늘어나는 현 상황에 조금이라도 도움이 되고,
+반려동물 입양을 고려하고있는 분들을 위한 사이트 개발
+</div>
+<br>
+
+
+## 1.1 프로젝트 명: Adofet
+
+
+```jsx
+📕  **유기동물 입양 기능** : 독서기록 서비스와 SNS가 결합된 서비스를 제공합니다.
+
+📗  **애완용품 판매 기능** : 내용은 알고 있지만 책의 이름이 기억이 나지 않을 경우 유사한 단어를 추적해 책을 찾아줍니다.
+
+📒  **애완동물 입양 후기 게시판 기능** : 찜을 통해 좋아하는 책을 담을수 있고, 원하는 게시물에 '좋아요'를 누르거나 댓글을 등록할 수 있습니다.
+
+<br>
+
+## 1.2 개발 환경
+
+### ⚙️   사용기술 
+| FrontEnd | BackEnd | Server | 협업방식 | DB |
+| :----: | :----: | :----: | :----: |:----: |
+| HTML CSS Bootstrap   | JAVA OPEN API KAKAO DEV 공공데이터포털 | Apach Tomcat |  Github | Oracle | 
+
+## 2-1. 기능구현 및 역할 
+박상현 - 입양 문의사항 및 페이징 
+> 입양 문의사항 페이지를 담당하였으며 문의사항 전체 글을 페이징 하는 역할을 맡아 하였습니다.
+
