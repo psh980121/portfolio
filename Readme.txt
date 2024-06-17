@@ -38,5 +38,7 @@ Adofet은 1인 가구가 늘어 남에 따라 그에 따른 반려동물�
 ![Example Image] (https://github.com/psh980121/portfolio/blob/main/%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%91%E1%85%A1%E1%86%AB.png)
 >모든 사람이 올린 문의내용을 볼 수 있습니다.
 
+![Exmaple Image] (https://github.com/psh980121/portfolio/blob/main/%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%92%E1%85%A1%E1%86%BC.png)
+> 1:1 문의사항 작성 문의 내용을 선택하여 제목과 글을 쓰고 파일 이미지를 업로드 할수있게 구현하였습니다.
 
 
