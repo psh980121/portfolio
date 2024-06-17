@@ -32,7 +32,7 @@ Adofet은 1인 가구가 늘어 남에 따라 그에 따른 반려동물�
 > 입양 문의사항 페이지를 담당하였으며 문의사항 전체 글을 페이징 하는 역할을 맡아 하였습니다.
 
 ## 2-2 화면 및 설명
-![Example Image](https://github.com/psh980121/portfolio/raw/main/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B4%E1%84%82%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%A8.png)
+![My Image](https://raw.githubusercontent.com/psh980121/portfolio/main/내문의내역.png)
 >나의 문의 내역을 볼수있는 페이지 상태여부에 따라 전체, 처리중, 처리완료 등으로 나누어 클릭시 상태여부에 맞는 문의내용만을 보여줄수있습니다.
 
 ![Example Image] (https://github.com/psh980121/portfolio/blob/main/%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%91%E1%85%A1%E1%86%AB.png)
